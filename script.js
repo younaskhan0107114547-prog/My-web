@@ -1,15 +1,15 @@
 // Array containing your 10 products
 const products = [
-    { name: "The lost on an island", price: "$0.10", img: "images/lost.jpeg", link: "https://payhip.com/b/CtwVc" },
-    { name: "The poor woodcutter and his son", price: "0.10$", img: "images/wson.jpeg", link: "https://payhip.com/b/o17Qp" },
-    { name: "Forged in secret", price: "0.10$", img: "images/vilg.jpeg", link: "https://payhip.com/b/F8smB" },
-    { name: "The king son and shepered girl", price: "0.10$", img: "images/shprd.jpeg", link: "https://payhip.com/b/KVCcF" },
-    { name: "Small Messenger Bag For Women", price: "0.99$", img: "images/bg.png", link: "https://s.click.aliexpress.com/e/_c3Xu67PX" },
-    { name: "New Style Female Handbag", price: "0.99$", img: "images/bnb.png", link: "https://s.click.aliexpress.com/e/_c3Nps62p" },
-    { name: " Vegetable Slicer", price: "0.99$", img: "images/nn.png", link: "https://s.click.aliexpress.com/e/_c3Dt3MYz" },
-    { name: "Oil Spray for Cooking", price: "0.99$", img: "images/spry.png", link: " https://s.click.aliexpress.com/e/_c3uTTh1x" },
-    { name: " Apple Pencil with LED Power", price: "0.99$", img: "images/bb.png", link: "https://s.click.aliexpress.com/e/_c3cJ8Pnx" },
-    { name: "Wireless Signal Booster Wifi", price: "0.99$", img: "images/bc.png", link: "https://s.click.aliexpress.com/e/_c4P8SvPj" }
+    { name: "The lost on an island", price: "$0.10", img: "lost.jpeg", link: "https://payhip.com/b/CtwVc" },
+    { name: "The poor woodcutter and his son", price: "0.10$", img: "wson.jpeg", link: "https://payhip.com/b/o17Qp" },
+    { name: "Forged in secret", price: "0.10$", img: "vilg.jpeg", link: "https://payhip.com/b/F8smB" },
+    { name: "The king son and shepered girl", price: "0.10$", img: "shprd.jpeg", link: "https://payhip.com/b/KVCcF" },
+    { name: "Small Messenger Bag For Women", price: "0.99$", img: "bg.png", link: "https://s.click.aliexpress.com/e/_c3Xu67PX" },
+    { name: "New Style Female Handbag", price: "0.99$", img: "bnb.png", link: "https://s.click.aliexpress.com/e/_c3Nps62p" },
+    { name: " Vegetable Slicer", price: "0.99$", img: "nn.png", link: "https://s.click.aliexpress.com/e/_c3Dt3MYz" },
+    { name: "Oil Spray for Cooking", price: "0.99$", img: "spry.png", link: " https://s.click.aliexpress.com/e/_c3uTTh1x" },
+    { name: " Apple Pencil with LED Power", price: "0.99$", img: "bb.png", link: "https://s.click.aliexpress.com/e/_c3cJ8Pnx" },
+    { name: "Wireless Signal Booster Wifi", price: "0.99$", img: "bc.png", link: "https://s.click.aliexpress.com/e/_c4P8SvPj" }
 ];
 
 const container = document.getElementById('product-container');
